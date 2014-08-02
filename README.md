@@ -9,7 +9,7 @@ TAC13 quickstart
 Assumes that `python` is installed on your system with `numpy` and `joblib`.
 
 ```Shell
-git clone https://github.com/benhachey/conll03_nel_eval
+git clone https://github.com/wikilinks/conll03_nel_eval
 cd conll03_nel_eval
 git checkout tac
 ./scripts/run_tac13_evaluation.sh \
